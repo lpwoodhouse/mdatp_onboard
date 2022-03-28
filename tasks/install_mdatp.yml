@@ -18,7 +18,7 @@
 # Copy MDATP onboarding json to host
 - name: copy mdatp_onboard.json
   copy:
-    src: files/mdatp_onboard.json
+    src: "{{ json_path }}"
     dest: "{{ mdatp_path }}/mdatp_onboard.json"
 
 # Configure distibutions for MDATP onboarding
