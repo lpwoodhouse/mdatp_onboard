@@ -1,4 +1,9 @@
-# Ansible Role: mdatp_onboard
+# Ansible Playbook: mdatp_onboard
+![GitHub last commit](https://img.shields.io/github/last-commit/lpwoodhouse/mdatp_onboard)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/lpwoodhouse/mdatp_onboard)
+![GitHub top language](https://img.shields.io/github/languages/top/lpwoodhouse/mdatp_onboard)
+
+## Purpose
 
 Onboards a Linux client distro (Redhat, Ubuntu and Suse families) to Microsoft Defender Advanced Threat Detection
 
@@ -29,8 +34,8 @@ None
 
 ## License
 
-GNU General Public Licence v3.0
+[![GitHub](https://img.shields.io/github/license/lpwoodhouse/mdatp_onboard)](LICENSE)
 
 ## Author Information
 
-This role was created in 2022 by [Lee Woodhouse](https://www.leewoodhouse.com/)
+This playbook was created in 2022 by [Lee Woodhouse](https://www.leewoodhouse.com/)
