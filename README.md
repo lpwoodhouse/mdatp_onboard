@@ -1,8 +1,9 @@
-# Ansible Playbook: mdatp_onboard
+# Onboard Microsoft Defender Advanced Threat Protection (MDATP) (Linux Hosts)
+[![playbook](https://img.shields.io/badge/Ansible-Playbook-blue)](site.yml)
 ![GitHub last commit](https://img.shields.io/github/last-commit/lpwoodhouse/mdatp_onboard)
 ![GitHub repo file count](https://img.shields.io/github/directory-file-count/lpwoodhouse/mdatp_onboard)
 ![GitHub top language](https://img.shields.io/github/languages/top/lpwoodhouse/mdatp_onboard)
-
+[![GitHub](https://img.shields.io/github/license/lpwoodhouse/mdatp_onboard)](LICENSE)
 ## Purpose
 
 Onboards a Linux client distro (Redhat, Ubuntu and Suse families) to Microsoft Defender Advanced Threat Detection
@@ -31,10 +32,6 @@ None
       roles:
         - mdatp_onboard
 ```
-
-## License
-
-[![GitHub](https://img.shields.io/github/license/lpwoodhouse/mdatp_onboard)](LICENSE)
 
 ## Author Information
 
